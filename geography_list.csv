@@ -1,0 +1,13 @@
+geography,abberviation,ftpserver,ftpdirectory,filename,schema,outtable,state
+combined statstical area,CBSA,ftp2.census.gov,geo/tiger/TIGER2016/CBSA,tl_2016_us_cbsa.zip,gis,census_cbsa,
+tract,TRACT,ftp2.census.gov,geo/tiger/TIGER2016/TRACT,tl_2016_01_tract.zip,gis,census_tract_01,1
+county,COUNTY,ftp2.census.gov,geo/tiger/TIGER2016/COUNTY,tl_2016_us_county.zip,gis,census_county,
+state,STATE ,ftp2.census.gov,geo/tiger/TIGER2016/STATE,tl_2016_us_state.zip,gis,census_state,
+block group,BG,ftp2.census.gov,geo/tiger/TIGER2016/BG,tl_2016_01_bg.zip,gis,census_block_group_01,1
+place,PLACE,ftp2.census.gov,geo/tiger/TIGER2016/PLACE,tl_2016_01_place.zip,gis,census_place_01,1
+congressional district,CD,ftp2.census.gov,geo/tiger/TIGER2016/CD,tl_2016_us_cd115.zip,gis,census_congressional_district,
+state legislative district (upper chamber),SLDU,ftp2.census.gov,geo/tiger/TIGER2016/SLDU,tl_2016_01_sldu.zip,gis,census_state_district_upper_01,1
+state legislative district (lower chamber),SLDL,ftp2.census.gov,geo/tiger/TIGER2016/SLDL,tl_2016_01_sldl.zip,gis,census_state_district_lower_01,1
+public use microdata area,PUMA,ftp2.census.gov,geo/tiger/TIGER2016/PUMA,tl_2016_01_puma10.zip,gis,census_puma_01,1
+school district (unified),UNSD,ftp2.census.gov,geo/tiger/TIGER2016/UNSD,tl_2016_01_unsd.zip,gis,census_school_district_01,1
+zip code tabulation area,ZCTA,ftp2.census.gov,geo/tiger/TIGER2016/ZCTA5,tl_2016_us_zcta510.zip,gis,census_zip_code,
